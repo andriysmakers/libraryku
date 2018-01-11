@@ -372,6 +372,8 @@ header .logo {
 	margin-bottom:30px;
 }
 
+
+
 #main-flexslider ul.slides li p {
 	font-size: 72px;
 	text-transform: uppercase;
@@ -492,7 +494,7 @@ section.spacer.bg2 {
 }
 
 section.spacer.bg3 {
-	background-color: green;
+	background-color: #95635B;
 	width:100%;
 	height:auto;
 	margin:0;	
@@ -1702,6 +1704,7 @@ i.icon-white {
 		width: 100%;
 	}
 }
+
 ul.contact-icons {
 			list-style: none;
 			padding-left: 0;
