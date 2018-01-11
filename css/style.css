@@ -372,15 +372,6 @@ header .logo {
 	margin-bottom:30px;
 }
 
-/* --- Header slider --- */
-#header-wrapper.header-slider {
-	background: #444 url(../img/bg/bg-u.jpg) no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-}
-
 #main-flexslider ul.slides li p {
 	font-size: 72px;
 	text-transform: uppercase;
